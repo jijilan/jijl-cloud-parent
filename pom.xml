@@ -20,6 +20,19 @@
     <url>http://www.jijl.cn/</url>
 
     <packaging>pom</packaging>
+    <licenses>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+    <scm>
+        <tag>master</tag>
+        <url>https://github.com/jijilan/jijl-cloud-parent.git</url>
+        <connection>https://github.com/jijilan/jijl-cloud-parent.git.git</connection>
+        <developerConnection>https://github.com/jijilan/jijl-cloud-parent.git</developerConnection>
+    </scm>
 
     <developers>
         <developer>
