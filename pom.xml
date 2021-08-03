@@ -13,10 +13,10 @@
     </parent>
 
     <groupId>cn.jijl.cloud</groupId>
-    <artifactId>xcyl-cloud-parent</artifactId>
+    <artifactId>jijl-cloud-parent</artifactId>
     <version>1.0.0</version>
 
-    <name>xcyl-cloud-parent</name>
+    <name>jijl-cloud-parent</name>
     <url>http://www.jijl.cn/</url>
 
     <packaging>pom</packaging>
