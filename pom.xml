@@ -14,7 +14,7 @@
 
     <groupId>com.xcyl.cloud</groupId>
     <artifactId>xcyl-cloud-parent</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
 
     <name>xcyl-cloud-parent</name>
     <url>http://www.jijl.cn/</url>
